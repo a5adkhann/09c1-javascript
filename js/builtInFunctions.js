@@ -4,6 +4,6 @@
 
 // console.log(msg);
 
-let confirmation = confirm("You really want to delete this item???");
+// let confirmation = confirm("You really want to delete this item???");
 
-console.log(confirmation);
+// console.log(confirmation);

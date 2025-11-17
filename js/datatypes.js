@@ -46,20 +46,20 @@ console.log(address.zip);  // object prop zip
 2) Arrow Function
 */
 
-// function verification(a, b){
-//     console.log("You are Verified!!!");
-//     console.log(a+b);
-// }
+function verification(a, b){
+    console.log("You are Verified!!!");
+    console.log(a+b);
+}
 
 // verification(2, 2);
 // verification(20, 25);
 // verification(45, 10);
 
-abc = () => {
-    console.log("You are Verified!!!");
-}
+// abc = () => {
+//     console.log("You are Verified!!!");
+// }
 
-abc();  
+// abc();  
 
 
 
