@@ -1,14 +1,14 @@
 // let age = prompt("Enter Your age");
 
-// if(age > 20){
-//     alert("You are Eligible");
-// }
-// else if(age < 20){
-//     alert("Middle Condition");
-// }
-// else {
-//     alert("You are not Eligible")
-// }
+if(age > 20){
+    alert("You are Eligible");
+}
+else if(age < 20){
+    alert("Middle Condition");
+}
+else {
+    alert("You are not Eligible")
+}
 
 // if(20 === "20"){
 //     console.log(true);
